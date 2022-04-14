@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">status_selection</string>
+    <string name="equipment_status">Equipment Status</string>
+    <string name="device_management">Device Management</string>
+</resources>
